@@ -10,6 +10,7 @@ Some of its features and characteristics:
 * Self contained (no additional dependencies other than to 2 in the above line)
 * Easy to change on the fly - all the functionality is implemented in JSPs, so no IDE required
 * Cross platform
+* test flipkart demo
 * Open source
 * No separate db to install and configure - it uses an 'in memory' db that is automatically (re)initialized on start up
 * Demo trigger for CxFlow
