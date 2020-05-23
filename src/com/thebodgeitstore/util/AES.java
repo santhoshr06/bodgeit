@@ -18,7 +18,7 @@ import javax.crypto.SecretKey;
 import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.SecretKeySpec;
 
-// abhishek test , demo pull request Checkmarx SAST scan trigger
+// abhishek test , demo pull request Checkmarx SAST scan trigger, 23rd May, 2020
    public class AES {
        private static Charset PLAIN_TEXT_ENCODING = Charset.forName("UTF-8");
        private static String CIPHER_TRANSFORMATION = "AES/CTR/NoPadding";
