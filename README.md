@@ -6,9 +6,9 @@ The BodgeIt Store is a vulnerable web application which is currently aimed at pe
 Note that the BodgeIt Store is now available as a Docker image: https://hub.docker.com/r/psiinon/bodgeit/ abhishek@xyz.com sdfsd
 
 Some of its features and characteristics:
-* Easy to install - just requires java and a servlet engine, e.g. Tomcat
+* Easy to install - just requires java and a servlet engine, e.g. Tomcat # ahfdiouahwieour
 * Self contained (no additional dependencies other than to 2 in the above line)
-* Easy to change on the fly - all the functionality is implemented in JSPs, so no IDE required
+* Easy to change on the fly - all the functionality is implemented in JSPs, so no IDE required oiqjowidjqo
 * Cross platform
 * test flipkart demo
 * Open source
