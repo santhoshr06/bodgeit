@@ -7,7 +7,7 @@ Note that the BodgeIt Store is now available as a Docker image: https://hub.dock
 
 Some of its features and characteristics:
 * Easy to install - just requires java and a servlet engine, e.g. Tomcat # ahfdiouahwieour
-* Self contained (no additional dependencies other than to 2 in the above line)
+* Self contained (no additional dependencies other than to 2 in the above line #abhishek
 * Easy to change on the fly - all the functionality is implemented in JSPs, so no IDE required oiqjowidjqo
 * Cross platform
 * test flipkart demo
