@@ -35,6 +35,10 @@ public class AdvancedSearch {
 
     //Constructor
     public AdvancedSearch(HttpServletRequest req, HttpSession sess, Connection conn){
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        
         this.request = req;
         this.session = sess;
         this.connection = conn;
