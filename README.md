@@ -14,7 +14,7 @@ Some of its features and characteristics:
 * Open source
 * No separate db to install and configure - it uses an 'in memory' db that is automatically (re)initialized on start up
 * Demo trigger for CxFlow
-* Test 2 <abhishek> <cxflow demo>
+* Test 2 <abhishek> <cxflow demo> 123
 
 All you need to do is download and open the zip file, and then extract the war file into the webapps directory of your favorite servlet engine.
 
