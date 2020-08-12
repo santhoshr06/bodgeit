@@ -1,4 +1,4 @@
-The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.
+The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.ewtertert
 
 > ### Please note that The BodgeIt Store is no longer being worked on
 > #### You are strongly recommended to use [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) instead!
@@ -14,7 +14,7 @@ Some of its features and characteristics:
 * Open source
 * No separate db to install and configure - it uses an 'in memory' db that is automatically (re)initialized on start up
 * Demo trigger for CxFlow
-* Test 2 <abhishek>
+* Test 2 <abhishek> <cxflow demo> 123
 
 All you need to do is download and open the zip file, and then extract the war file into the webapps directory of your favorite servlet engine.
 
