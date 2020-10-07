@@ -44,6 +44,6 @@ jobs:
         # Break build based on Checkmarx findings?
         break_build: # optional
         # Additional CLI parameters
-        params: --cx-flow.bug-tracker=GitHub --cxflow.bug-tracker-impl=GitHub --repo-name=bodgeit --namespace=abhishekd07 --branch=master
+        #params: --cx-flow.bug-tracker=GitHub --cxflow.bug-tracker-impl=GitHub --repo-name=bodgeit --namespace=abhishekd07 --branch=master
         # GitHub API Token
         github_token: ${{secrets.MY_GITHUB_TOKEN}}
