@@ -30,7 +30,7 @@ jobs:
         #Provide Checkmarx URL
           checkmarx_url: ${{secrets.CHECKMARX_URL}}
           # Select a Checkmarx Team
-          team: /CxServer/Demo_2
+          team: CxServer/Demo_2
           #Provide Checkmarx Username
           checkmarx_username: ${{secrets.CHECKMARX_USERNAME}}
           #Provide Checkmarx Password
