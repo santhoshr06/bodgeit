@@ -12,7 +12,7 @@ Some of its features and characteristics:
 * Cross platform
 * test flipkart demo
 * Open source
-* No separate db to install and configure - it uses an 'in memory' db that is automatically (re)initialized on start up
+* No separate db to install and configure - it uses an 'in memory' db that is automatically (re)initialized on start upwerwerw
 * Demo trigger for CxFlow
 * Test 2 <abhishek> <cxflow demo> 123
 
