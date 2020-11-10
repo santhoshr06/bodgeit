@@ -48,3 +48,7 @@ jobs:
           #params: --cx-flow.bug-tracker=GitHub --cxflow.bug-tracker-impl=GitHub --repo-name=bodgeit --namespace=abhishekd07 --branch=master
           # GitHub API Token
           github_token: ${{secrets.MY_GITHUB_TOKEN}}
+      - name: Upload SARIF file
+        uses: github/codeql-action/upload-sarif@v1
+        with:
+          sarif_file: cx.sarif 
