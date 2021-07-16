@@ -39,6 +39,8 @@ In the relatively near future I'm hoping to add things like:
 * Ajax requests
 * More vulnerabilities (of course)
 
+Testing GITHUB actions
+
 You can now also perform automated security regression tests on the Bodge It Store - see the wiki.
 
 CxFlowMasterPush-Test1 <abhishek>test 
